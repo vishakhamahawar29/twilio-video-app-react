@@ -1,5 +1,5 @@
 Main
-!(main)(demo_room.png)
+![main](demo_room.png)
 
 PSTN Paticipant
 ![pstn](demo_PSTN.png)
